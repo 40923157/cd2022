@@ -2,13 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-<<<<<<< HEAD
-AUTHOR ="40923157"
-SITENAME = "協同產品設計實習
-=======
-AUTHOR = '40923101'
-SITENAME = '協同產品設計實習'
->>>>>>> bc08633b1d51d4d3df63ba28806c05212e4a818d
+AUTHOR = '40923117'
+SITENAME = '40923117 blog'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
