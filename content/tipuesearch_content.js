@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '我的學號 40923157 \n 網站倉儲: \xa0 https://github.com/40923157/cd2022 \n 網站連結: \xa0 https://40923157.github.io/cd2022 \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '我的學號 40923157 \n 網站倉儲: \xa0 https://github.com/40923157/cd2022 \n 網站連結: \xa0 https://40923157.github.io/cd2022 \n', 'tags': '', 'url': 'About.html'}, {'title': '功課', 'text': '\n \n \n   \n \n \n \n \n \n \n', 'tags': '', 'url': '功課.html'}]};
